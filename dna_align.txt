@@ -1,0 +1,42 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+gi|410047457|ref|XM_003952340.      -------------------TGGGATTGCAGGCTCCAAACAGGCATGCAAG
+gi|545544557|ref|XM_005636488.      AGGTCTGACATAAGGCTATCTCCAATCTAGGCTGCAGACAGGTATGCGAG
+                                                           * *  ***** ** ***** **** **
+
+gi|410047457|ref|XM_003952340.      GTGCCTTTGGAAAGCCCCAGGGCACTGTGGCCAGGGTTCACATTGGCCAA
+gi|545544557|ref|XM_005636488.      GTGCCTTTGGGAAGCCCCAGGGCACAGTAGCCAGGGTCCACATTGGCCAA
+                                    ********** ************** ** ******** ************
+
+gi|410047457|ref|XM_003952340.      GTTATCATGTCCATCCGCACCAAGCTACAGAACAAGGAGCATGTGATTGA
+gi|545544557|ref|XM_005636488.      GTCATCATGTCCATCCGTACCAAGCTACAGAACAAGGAGCATGTGATTGA
+                                    ** ************** ********************************
+
+gi|410047457|ref|XM_003952340.      GGCCCTGCGCAGGGCCAAGTTCAAGTTTCCTGGCCGCCAGAAGATCCACA
+gi|545544557|ref|XM_005636488.      GGCCCTATGCAGGGCCAAGTTCAAGTTCCCTGGCCGCCAGAAGATCCACA
+                                    ******  ******************* **********************
+
+gi|410047457|ref|XM_003952340.      TCTCAAAGAAGTGGGGCTTCACCAAGTTCAATGCTGACGAATTTGAAGAC
+gi|545544557|ref|XM_005636488.      TCTCCAAGAAGTGGGGCTTTACTAAGTTTAATGCGGACGAATTTGAAGAT
+                                    **** ************** ** ***** ***** ************** 
+
+gi|410047457|ref|XM_003952340.      ATGGTGGCTGAAAAGCGGCTCATCCCAGATGGCTGTGGGGTCAAGTACAT
+gi|545544557|ref|XM_005636488.      ATGGTGGCCGAAAAGCGGCTCATCCCAGATGGCTGTGGGGTCAAATACAT
+                                    ******** *********************************** *****
+
+gi|410047457|ref|XM_003952340.      CCCCAGTCGTGGCCCTCTGGACAAGTGGCGGGCCCTGCACTCATGAGGGC
+gi|545544557|ref|XM_005636488.      CCCTAATCCTGGCCCCTTGGACAAATGGAGGGCTCTCCACTCATGAGAAC
+                                    *** * ** ******  ******* *** **** ** **********  *
+
+gi|410047457|ref|XM_003952340.      TTCCAATGTGCTGCCCCCCTCTTAATACTCACCAATAAATTCTACTTCCT
+gi|545544557|ref|XM_005636488.      CTTGCACCACCCGAACCTTACTCA-TGCCCACCAA---------------
+                                     *   *    * *  **   ** * * * ******               
+
+gi|410047457|ref|XM_003952340.      GTCCAAAAAAAAAAAAAAAAAAGAATAAGCTTCAGCTTACAGGGCCTCAG
+gi|545544557|ref|XM_005636488.      --------------------------------------------------
+                                                                                      
+
+gi|410047457|ref|XM_003952340.      G
+gi|545544557|ref|XM_005636488.      -
+                                     

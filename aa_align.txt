@@ -1,0 +1,10 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+gi|410047458|ref|XP_003952389.      MQGAFGKPQGTVARVHIGQVIMSIRTKLQNKEHVIEALRRAKFKFPGRQK
+gi|545544558|ref|XP_005636545.      MRGAFGKPQGTVARVHIGQVIMSIRTKLQNKEHVIEALCRAKFKFPGRQK
+                                    *:************************************ ***********
+
+gi|410047458|ref|XP_003952389.      IHISKKWGFTKFNADEFEDMVAEKRLIPDGCGVKYIPSRGPLDKWRALHS
+gi|545544558|ref|XP_005636545.      IHISKKWGFTKFNADEFEDMVAEKRLIPDGCGVKYIPNPGPLDKWRALHS
+                                    *************************************. ***********
